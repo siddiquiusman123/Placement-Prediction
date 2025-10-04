@@ -40,7 +40,7 @@ It is deployed as an interactive **Streamlit web application**, where users can 
 
 ## 🌐 Live Demo  
 🔗 Click here to try the app:  
-👉 [Placement Prediction Streamlit App](https://placement-prediction-yourlink.streamlit.app/)  
+👉 [Placement Prediction Streamlit App](https://placement-prediction-rp869bkadsfjcxujtjrxjp.streamlit.app/)  
 
 ---
 
